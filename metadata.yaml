@@ -1,0 +1,46 @@
+_repo: The-thing-on-the-door-step_73230
+_version: 0.0.1
+alternative_title: The thing on the doorstep
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Thing_on_the_Doorstep'
+gutenberg_issued: '2024-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73230'
+language: en
+pgterms:marc905: 20240304081505lovecraft
+pgterms:marc906: '1937'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PS'
+- GITenberg
+title: The thing on the door-step
+url: http://www.gutenberg.org/ebooks/73230
