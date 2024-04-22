@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 73230-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Thing_on_the_Doorstep'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73230#The-thing-on-the-door-step
 gutenberg_issued: '2024-03-22'
 gutenberg_type: Text
 identifiers:
